@@ -10,15 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "mongoose": "^8.7.2",
-    "moongoose": "^0.0.5",
-=======
+    "flowbite": "^2.5.2",
     "flowbite-react": "^0.10.2",
->>>>>>> 67145d64d7ba93a2ecba9ae6a873e7816c0d05b0
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icon": "^1.0.0",
