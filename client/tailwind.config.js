@@ -11,4 +11,4 @@ export default {
   plugins: [
     require('flowbite/plugin') // Add Flowbite as a plugin
   ],
-}
+};
